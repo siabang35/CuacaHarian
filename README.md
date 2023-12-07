@@ -3,4 +3,4 @@ Aplikasi Cuaca Harian dengan Jetpack Compose adalah aplikasi yang menampilkan in
 
 Sumber Data :
 Data cuaca diambil dari [API BMKG] yang menyediakan data cuaca setiap provinsi di Indonesia 
-Tutorial untuk membuat API cuaca berdasarkan data BMKG dapat dilihat di https://api.bmkg.co.id
+Tutorial untuk membuat API cuaca berdasarkan data BMKG dapat dilihat di https://api.bmkg.go.id
